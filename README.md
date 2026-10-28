@@ -1,3 +1,35 @@
+<p align="center"><img src=".github/brand-cover-20261028.svg" width="100%" alt="Capa de FIRE SIDE"></p>
+
+<h1 align="center">FIRE SIDE</h1>
+<p align="center"><strong>The road matters because there is somewhere worth returning to.</strong><br>A viagem, a tempestade e a promessa de um lugar para voltar. Um RPG de ação sobre exploração e pertencimento.</p>
+<p align="center"><code>RPG DE AÇÃO · VITRINE PÚBLICA</code></p>
+<p align="center"><a href="docs/media/"><strong>Direção visual</strong></a> &nbsp; · &nbsp; <a href="LICENSE.md"><strong>Licença</strong></a></p>
+
+---
+
+## Visão do projeto
+
+A viagem, a tempestade e a promessa de um lugar para voltar. Um RPG de ação sobre exploração e pertencimento.
+
+| Pilar | Papel no projeto |
+| :-- | :-- |
+| **Produto** | Travessia de um mundo em transformação |
+| **Experiência** | Narrativa do cão perdido e da chegada a Pedra Mansa |
+| **Engenharia** | Arte de conceito e direção visual em construção |
+
+## Explore a documentação
+
+- [Direção visual](docs/media/)
+- [Licença](LICENSE.md)
+
+> [!IMPORTANT]
+> Em desenvolvimento: não há build público disponível. As imagens da vitrine são peças de direção de arte, não prova de aparência in-game.
+
+---
+
+<details>
+<summary><strong>Documentação técnica anterior</strong> · histórico, comandos, avisos e créditos</summary>
+
 <p align="center">
   <img src="docs/media/hero-fire-side.webp" alt="Um viajante e o Cão da Chuva seguem por uma estrada molhada em direção às luzes de Pedra Mansa" width="100%">
 </p>
@@ -139,3 +171,5 @@ Quando uma build estiver pronta para pessoas de fora do desenvolvimento, ela apa
   <strong>Fire Side</strong><br>
   Um mundo para explorar. Um fogo para manter aceso.
 </p>
+
+</details>
